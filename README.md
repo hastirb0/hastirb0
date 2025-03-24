@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! 👋 I'm hasti
 
-<!--
-**hastirb0/hastirb0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Aspiring Developer | 🚀 Learning and Growing Every Day
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm currently on an exciting journey to become a skilled developer. I've completed courses in **Python**, **JavaScript**, **HTML**, and **Tailwind CSS**, and I'm now diving deeper into **Django** to build powerful web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I'm Learning
+- **Python** - Building the foundation of my programming skills.
+- **JavaScript** - Exploring the world of interactive web development.
+- **HTML & CSS** - Creating responsive and modern web designs.
+- **Tailwind CSS** - Mastering utility-first CSS for sleek UIs.
+- **Django** - Learning to build robust and scalable web applications.
+
+### 🎯 Goals
+- To master the fundamentals of web development.
+- To contribute to open-source projects.
+- To build real-world projects with **Django** and **Tailwind CSS**.
+- To create a full-stack project combining my skills.
+
+### 📫 Let's Connect!
+I'm always open to learning from others and collaborating on interesting projects. 
